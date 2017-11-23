@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\bin\Debug\Beacons.Helper.dll
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\bin\Debug\Beacons.Helper.pdb
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\bin\Debug\Beacons.Helper.pri
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\Beacons.Helper.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\Beacons.Helper.dll
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\Beacons.Helper.pdb
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\priconfig.xml
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\priconfig.xml.intermediate
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\layout.resfiles
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\layout.resfiles.intermediate
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\resources.resfiles
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\resources.resfiles.intermediate
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\pri.resfiles
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\pri.resfiles.intermediate
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\qualifiers.txt
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\qualifiers.txt.intermediate
+C:\Users\HP\Desktop\公司專案\TDD\Project\IOT\Beacons.Universal-master\Beacons.Universal-master\Beacons.Helper\obj\Debug\MultipleQualifiersPerDimensionFound.txt

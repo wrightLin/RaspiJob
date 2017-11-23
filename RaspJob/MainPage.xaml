@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="RaspJob.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RaspJob"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <TextBlock x:Name="CurrentState" HorizontalAlignment="Left" Margin="226,58,0,0" TextWrapping="Wrap" Text="CurrentState" VerticalAlignment="Top" />
+    <TextBlock x:Name="QueueMessage" HorizontalAlignment="Left" Margin="226,0,0,225" TextWrapping="Wrap" Text="QueueMessage" VerticalAlignment="Center"  />
+        <TextBlock x:Name="IP_ADDRESS" HorizontalAlignment="Left" Margin="226,0,0,225" TextWrapping="Wrap" Text="Ip" VerticalAlignment="Bottom"  />
+        <Button x:Name="IsUWPAliveButton" Content="AmIAlive?" HorizontalAlignment="Left" Margin="226,440,0,0" VerticalAlignment="Top" Click="IsUWPAliveButton_Click"/>
+</Grid>
+</Page>
+

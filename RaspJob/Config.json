@@ -1,0 +1,46 @@
+{
+
+  //****** Debug ******//
+  //  "manufacturerId": "0215",
+  //  "uuid": "e4c8a4fc-f68b-470d-959f-29382af72ce7",
+  //  "major": "000C",
+  //  "minor": "0001",
+  //  "txPower": "c3",
+  //  "DeviceName": "SimulateBeacon1",
+  //  "DeviceKey": "fdYJZ8Bg5Y9pQPGBl1d7ZQ==",
+  //  "IOTHubUri": "gsstddhub.azure-devices.net",
+
+  //****** Release ******//
+  "manufacturerId": "0215",
+  "uuid": "e4c8a4fc-f68b-470d-959f-29382af72ce7",
+  "major": "000C",
+  "minor": "0002",
+  "txPower": "c3",
+  "DeviceName": "SimulateBeacon1-D",
+  "DeviceKey": "JkzqlJv3di7NusVmGrAU1w==",
+  "IOTHubUri": "gsstddhub.azure-devices.net",
+
+  //****** Constant ******//
+  "GatePin": 26,
+  "PIRSensorPin": 12,
+  "PIRSensorPin2": 13,
+  "LEDPin": 16,
+
+
+  "OpenDoorMessage": "OpenDoor",
+  "ClickOpenDoorMessage": "ClickOpenDoor",
+  "OpenDoorSeconds": 1,
+  "OpenDoorIntervalSeconds": 8,
+
+  "LogDateTimeFormat": "yyyyMMdd hh:mm:ss.ff",
+  "ReceiveBeaconRSSIThreshold": -70,
+  "GetAllUserDevicesInfoUrl": "https://tdd-2012-2.gss.com.tw/beaconwebapi/api/UserDevicesInfo/GetAllUserDeviceInfo",
+  "GetIotBeaconInfoUrl": "https://tdd-2012-2.gss.com.tw/beaconwebapi/api/BeaconInfo/GetBeaconInfo",
+
+
+  "BeaconWebApiAuthHeadKey": "Auth",
+  "BeaconWebApiAuthHeadValue": "GSS@Beacon-Scanner",
+  "PostInfoMessage2LogUrl": "https://tdd-2012-2.gss.com.tw/beaconwebapi/api/Logger/PostInfoMessage2Log",
+  "PostErrorMessage2LogUrl": "https://tdd-2012-2.gss.com.tw/beaconwebapi/api/Logger/PostErrorMessage2Log"
+
+}

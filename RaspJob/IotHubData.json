@@ -1,0 +1,11 @@
+{
+  "DeviceName": "SimulateBeacon1-D",
+  "DeviceKey": "JkzqlJv3di7NusVmGrAU1w==",
+  "IOTHubUri": "gsstddhub.azure-devices.net"
+}
+
+//{
+//  "DeviceName": "SimulateBeacon1",
+//  "DeviceKey": "fdYJZ8Bg5Y9pQPGBl1d7ZQ==",
+//  "IOTHubUri": "gsstddhub.azure-devices.net"
+//}
